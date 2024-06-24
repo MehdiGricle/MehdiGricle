@@ -1,9 +1,6 @@
 Hi there 👋
 - 🔭 I’m currently working on My first project   
 - 🌱 I’m currently learning Laravel
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...-->
-<!-- 💬 Ask me about ...-->
 - 📫 How to reach me: t.me/gricle
 - 😄 Pronouns: he/him
 <!-- ⚡ Fun fact: ...-->
